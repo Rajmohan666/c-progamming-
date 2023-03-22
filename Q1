@@ -12,5 +12,5 @@ int main()
 	 
 	 return 0;
 }
-OUTPUT
-       error -using namespace std;
+OUTPUT:
+       x is equal to y 
