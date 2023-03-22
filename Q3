@@ -1,0 +1,15 @@
+using namespace std;
+#include<bits/stdc++.h>
+int main()
+{
+	int seventy;
+    int x=10;
+	int y= seventy;
+	x=x+y;
+	x=x-y;
+	y=x-y;
+	
+	cout<<"x:"<<x<<"\n";
+	cout<<"y:"<<y<<"\n";
+	return 0;	
+}
