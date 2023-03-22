@@ -13,3 +13,6 @@ int main()
 	cout<<"y:"<<y<<"\n";
 	return 0;	
 }
+ OUTPUT:
+       x:10
+       y:-6
