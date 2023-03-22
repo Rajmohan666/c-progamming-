@@ -1,0 +1,10 @@
+using namespace std;
+#include<iostream>
+int main()
+{
+	int a=5;
+	int b=5;
+	int sum =-(-a-b);
+	cout<<sum;
+	return 0;
+}
