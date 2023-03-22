@@ -7,3 +7,5 @@ int main()
 	if (cout<<x<<""&&x++<N&& main())
 	return 0;
 }
+OUTPUT:
+12345678910
