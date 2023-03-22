@@ -1,0 +1,10 @@
+using namespace std;
+#include<iostream>
+int main()
+{
+	if(!(cout<<"SIMATS"))
+	cout<<"SIMATS";
+	else
+	cout<<"SCHOOL OF ENGINEERING";
+	return 0;
+}
