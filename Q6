@@ -8,3 +8,5 @@ int main()
 	cout<<"SCHOOL OF ENGINEERING";
 	return 0;
 }
+OUTPUT:
+    SIMATSSCHOOL OF ENGINEERING 
