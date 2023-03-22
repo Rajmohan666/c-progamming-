@@ -4,3 +4,5 @@ int main()
 {
 	cout<<"\"greeksforgeeks\"";
 }
+OUTPUT:
+       ERROR   using namespace std;
