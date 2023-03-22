@@ -1,0 +1,9 @@
+using namespace std;
+#include<iostream>
+int main()
+{
+	int N=10;
+	static int x=1;
+	if (cout<<x<<""&&x++<N&& main())
+	return 0;
+}
